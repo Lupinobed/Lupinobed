@@ -29,7 +29,7 @@
 
 <!-- BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ObedMagori&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lupinobed&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20to%20Collabs-brightgreen?style=flat&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/badge/KU%20Nairobi-🎓-blue?style=flat" />
   <img src="https://img.shields.io/badge/Full--Stack%20Dev-⚡-orange?style=flat" />
@@ -57,7 +57,7 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 
 ## ⚡ Current Focus
 
-> 🏗️ **Building** → [ShopmTaani](https://github.com/ObedMagori) — campus marketplace PWA for Nairobi university students  
+> 🏗️ **Building** → [ShopmTaani](https://github.com/Lupinobed) — campus marketplace PWA for Nairobi university students  
 > 🤖 **Learning** → Backend engineering: SQL, APIs, system design  
 > 🎯 **Interests** → AI/ML, trading bots, campus-focused fintech & ed-tech  
 > 📬 **Reach me** → WhatsApp: `0791413851` · GitHub issues/DMs
@@ -119,14 +119,14 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ObedMagori&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObedMagori&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lupinobed&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupinobed&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ObedMagori&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lupinobed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -137,9 +137,9 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 <!-- This animates after you set up the GitHub Action below -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObedMagori/ObedMagori/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ObedMagori/ObedMagori/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ObedMagori/ObedMagori/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lupinobed/Lupinobed/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lupinobed/Lupinobed/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lupinobed/Lupinobed/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -175,7 +175,7 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObedMagori&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0883e&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lupinobed&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0883e&area=true&hide_border=true" />
 </div>
 
 ---
@@ -184,9 +184,9 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ObedMagori-181717?style=for-the-badge&logo=github)](https://github.com/ObedMagori)
+[![GitHub](https://img.shields.io/badge/GitHub-Lupinobed-181717?style=for-the-badge&logo=github)](https://github.com/Lupinobed)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0791413851-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254791413851)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obedongiti85@gmail.com)
 
 </div>
 
