@@ -144,12 +144,6 @@ class Cipherzero:
 
 </div>
 
-<details>
-<summary>⚙️ <b>How to activate the snake (click to expand)</b></summary>
-<br>
-
-</details>
-
 ---
 
 ## 🌍 Currently Focused On
