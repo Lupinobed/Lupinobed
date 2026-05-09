@@ -1,40 +1,16 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     OBED MAGORI — GitHub Profile README
-     Instructions: Place this file at  <your-username>/<your-username>/README.md
-     To add your GIF/video: replace the URL in the <img> tag under "HEADER GIF"
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ─────────────────────────────────────────────────────────────
-  HEADER GIF / LIVE PICTURE
-  Replace the src URL below with your own GIF or anime coding gif.
-  Great free sources:
-    • https://giphy.com  (search "coding anime" or "developer anime")
-    • https://tenor.com
-    • Upload your own to your repo under /assets/header.gif
-  Recommended size: 400–600px wide, 16:9 or square ratio
-───────────────────────────────────────────────────────────────── -->
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98078d2b2d99af0c8b7ed8c7c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="480" alt="Coding anime gif" style="border-radius: 12px;" />
+<!-- Capsule Render Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=200&section=header&text=Obed%20Magori&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cipherzero%20%7C%20Building%20for%20the%20Campus%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descSize=16&animation=fadeIn)
 
-<!-- ANIMATED TYPING TITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Obed+Magori+%F0%9F%91%8B;Statistics+%26+Programming+@+KU;Full-Stack+Dev+%7C+AI+Builder;Building+for+the+Campus+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
-</a>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Obed+Magori+%F0%9F%91%8B;Statistics+%26+Programming+%40+KU+Nairobi;Full-stack+Dev+%7C+AI+Builder+%7C+Data+Nerd;Building+ShopmTaani+%F0%9F%9B%92+for+campus+life;Crafting+Kai+%F0%9F%A4%96+%E2%80%94+your+AI+companion;tech%2C+coding%2C+praying%2C+sleeping%2C+repeat+%E2%9A%A1)](https://git.io/typing-svg)
 
-<!-- TAGLINE -->
-<p>
-  <em>Statistics & Programming · Kenyatta University · Builder of things that matter locally 🇰🇪</em>
-</p>
-
-<!-- BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Lupinobed&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collabs-brightgreen?style=flat&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/KU%20Nairobi-🎓-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Dev-⚡-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Data%20Science-📊-purple?style=flat" />
-</p>
+<!-- Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Lupinobed&color=58a6ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Lupinobed?color=3fb950&style=flat-square&logo=github&label=Followers)](https://github.com/Lupinobed)
+![Open to Collab](https://img.shields.io/badge/Open%20to-Collaboration-f0883e?style=flat-square)
+![Kenya](https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-red?style=flat-square)
 
 </div>
 
@@ -42,25 +18,18 @@
 
 ## 🙋‍♂️ About Me
 
-```yaml
-name       : Obed Magori
-location   : Nairobi, Kenya 🇰🇪
-university : Kenyatta University — Statistics & Programming
-status     : Building ShopmTaani (campus marketplace PWA)
-learning   : Backend engineering · SQL · REST APIs · System Design
-interests  : AI/ML · Trading Bots · Campus-focused Tech
-contact    : WhatsApp +254 791 413 851
-fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
+```python
+class Cipherzero:
+    name       = "Obed Magori"
+    alias      = "Cipherzero"
+    university = "Kenyatta University, Nairobi 🎓"
+    course     = "Statistics & Programming"
+    building   = ["ShopmTaani 🛒", "AttendKU 🎓", "Kai AI Companion 🤖"]
+    learning   = ["Backend Engineering", "System Design", "AI/ML"]
+    interests  = ["Full-stack Dev", "AI", "Trading Bots", "Campus Tech"]
+    contact    = "WhatsApp: 0791413851"
+    fun_fact   = "I debug code the same way I debug life — prayer first 🙏"
 ```
-
----
-
-## ⚡ Current Focus
-
-> 🏗️ **Building** → [ShopmTaani](https://github.com/Lupinobed) — campus marketplace PWA for Nairobi university students  
-> 🤖 **Learning** → Backend engineering: SQL, APIs, system design  
-> 🎯 **Interests** → AI/ML, trading bots, campus-focused fintech & ed-tech  
-> 📬 **Reach me** → WhatsApp: `0791413851` · GitHub issues/DMs
 
 ---
 
@@ -69,47 +38,78 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 <div align="center">
 
 | Project | Description | Stack | Status |
-|---------|------------|-------|--------|
-| 🛒 **[ShopmTaani](#)** | Campus marketplace PWA — buy/sell clothing, electronics, food & services with QR code storefronts per seller | React · FastAPI · PostgreSQL · Supabase | 🟢 Active |
-| 🎓 **[AttendKU](#)** | Anti-fraud rotating QR attendance system for KU. Tokens regenerate every 30s via Redis | FastAPI · Redis · PostgreSQL · PWA | 🟢 Active |
-| 🤖 **[Kai — AI Companion](#)** | Anime-inspired AI desktop overlay with Live2D, ElevenLabs voice & Whisper STT. JJK aesthetic 🔥 | Electron.js · Gemini API · Live2D · Python | 🔧 Building |
+|--------|-------------|-------|--------|
+| 🛒 **[ShopmTaani](https://github.com/Lupinobed)** | Campus marketplace PWA for Nairobi universities | React · FastAPI · Supabase | ![Live](https://img.shields.io/badge/-Live-3fb950?style=flat-square) |
+| 🎓 **[AttendKU](https://github.com/Lupinobed)** | Rotating QR attendance — fighting proxy fraud at KU | FastAPI · Redis · PostgreSQL | ![Pitch Ready](https://img.shields.io/badge/-Pitch%20Ready-f0883e?style=flat-square) |
+| 🤖 **[Kai AI Companion](https://github.com/Lupinobed)** | JJK-inspired AI desktop overlay with voice & Live2D | Electron · Gemini · Python | ![Building](https://img.shields.io/badge/-Building-a78bfa?style=flat-square) |
 
 </div>
+
+<details>
+<summary>🛒 <b>ShopmTaani — Campus Marketplace</b></summary>
+<br>
+
+> Buy, sell & discover across Nairobi universities — fashion, phones, food, services & more
+
+- 🏪 **QR storefronts** per seller — scan and shop instantly
+- 🌙 Dark mode, JWT auth, PWA install prompt
+- 🚀 Deployed: **Vercel** (frontend) · **Render** (backend) · **Supabase** (DB)
+- 📱 Mobile-first Jumia-inspired UI
+
+</details>
+
+<details>
+<summary>🎓 <b>AttendKU — Smart Attendance System</b></summary>
+<br>
+
+> Rotating QR codes that expire in real-time — no more proxy signing
+
+- ⏱️ Codes rotate every N seconds via **Redis**
+- 🎯 Built for KU's ~67,905 students
+- 🔴 KU red/black design language
+- 🏛️ Pitch-ready for university administration
+
+</details>
+
+<details>
+<summary>🤖 <b>Kai — AI Desktop Companion</b></summary>
+<br>
+
+> Anime-inspired AI assistant. JJK aesthetic. Jarvis energy. 🔥
+
+- 🗣️ **ElevenLabs** voice + **Whisper** speech-to-text
+- 🎨 **Live2D** animations + Electron.js overlay
+- 🧠 Wake word: *"Yo Kai"*
+- ⚡ Powered by **Gemini 2.0 Flash**
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- ANIMATED TECH STACK ICONS — powered by skillicons.dev -->
 <div align="center">
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,r&theme=dark" />
-</p>
+**Languages & Frameworks**
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,supabase&theme=dark" />
-</p>
+**Databases & Cloud**
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,electron,linux&theme=dark" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElevenLabs-black?style=for-the-badge&logoColor=white" />
-</p>
+**Data Science & AI**
+
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -119,14 +119,14 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lupinobed&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupinobed&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lupinobed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupinobed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lupinobed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lupinobed&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=3fb950)](https://git.io/streak-stats)
 
 </div>
 
@@ -134,49 +134,68 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 
 ## 🐍 Contribution Snake
 
-<!-- This animates after you set up the GitHub Action below -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lupinobed/Lupinobed/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lupinobed/Lupinobed/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lupinobed/Lupinobed/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lupinobed/Lupinobed/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lupinobed/Lupinobed/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/Lupinobed/Lupinobed/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
-<!-- 
-  ⚙️  TO ENABLE THE SNAKE ANIMATION:
-  1. In your profile repo, create: .github/workflows/snake.yml
-  2. Paste this content:
+<details>
+<summary>⚙️ <b>How to activate the snake (click to expand)</b></summary>
+<br>
 
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+1. In your **Lupinobed** profile repo, create this file:
+   `.github/workflows/snake.yml`
+
+2. Paste this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Actions** tab → run the workflow manually once
+4. The snake will auto-update every day at midnight 🐍
+
+</details>
 
 ---
 
-## 📈 Activity Graph
+## 🌍 Currently Focused On
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lupinobed&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0883e&area=true&hide_border=true" />
-</div>
+- 📦 Shipping **ShopmTaani v1** across Nairobi universities
+- 🧠 Leveling up backend engineering — SQL · APIs · system design
+- 🤝 Pitching **AttendKU** to KU administration
+- 🎨 Building **Kai's** Live2D animations and memory system
+- 📊 Crushing **SST201** Linear Programming 💪
 
 ---
 
@@ -184,35 +203,16 @@ fun_fact   : "tech, coding, praying, sleeping, repeat" 😄
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lupinobed-181717?style=for-the-badge&logo=github)](https://github.com/Lupinobed)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0791413851-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254791413851)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obedongiti85@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lupinobed)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254791413851)
 
 </div>
 
 ---
 
+<!-- Capsule Render Footer -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+solutions+for+the+campus.;One+commit+at+a+time.+🌍;%22tech%2C+coding%2C+praying%2C+sleeping%2C+repeat%22" alt="Footer typing" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:58a6ff,100:0d1117&height=120&section=footer&text=tech%2C+coding%2C+praying%2C+sleeping%2C+repeat+%E2%9A%A1&fontSize=14&fontColor=ffffff&fontAlignY=65)
 
 </div>
-
-<!-- 
-═══════════════════════════════════════════════════════════════
-  HOW TO ADD YOUR OWN GIF / ANIME VIDEO AT THE TOP:
-  
-  Option 1 — Use a GIF from the web:
-    Replace the <img src="..."> at the top with any .gif URL
-    Good searches on giphy.com: "anime coding", "developer anime", "jjk study"
-  
-  Option 2 — Upload your own GIF to the repo:
-    1. Add your file as: assets/header.gif  in your profile repo
-    2. Change the src to:
-       https://raw.githubusercontent.com/ObedMagori/ObedMagori/main/assets/header.gif
-  
-  Option 3 — Animated SVG banner (no external host needed):
-    Use https://capsule-render.vercel.app  e.g.:
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Obed%20Magori&fontSize=40&animation=fadeIn" />
-═══════════════════════════════════════════════════════════════
--->
